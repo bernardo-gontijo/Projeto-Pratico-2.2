@@ -23,7 +23,7 @@ Projeto-Pratico-2.2/
 
 | Pasta / arquivo | Conteúdo |
 |---|---|
-| `Bibliografias/` | Referências de apoio: artigo de origem da base (Koklu e Ozkan, 2020), livros da disciplina e trabalhos práticos anteriores da equipe |
+| `Bibliografias/` | Referências de apoio: artigo de origem da base (Koklu e Ozkan, 2020), livros da disciplina |
 | `DryBeanDataset/` | Base de dados *Dry Bean Dataset* nos formatos `.xlsx` (usado nos notebooks), `.arff` e a documentação `.txt` |
 | `Notebooks/` | Notebooks das três etapas do Projeto Prático 2.2 |
 | `requirements.txt` | Dependências Python do projeto |
