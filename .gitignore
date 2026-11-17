@@ -1,0 +1,8 @@
+.ipynb_checkpoints/
+DryBeanDataset
+# Ambientes locais
+.venv/
+venv/
+.env
+.env.*
+!.env.example

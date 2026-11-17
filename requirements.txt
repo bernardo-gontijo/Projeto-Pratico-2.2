@@ -1,0 +1,20 @@
+# Ambiente de notebooks
+jupyter
+ipykernel
+
+# Manipulação de dados
+numpy
+pandas
+openpyxl          # leitura do Dry_Bean_Dataset.xlsx com pandas.read_excel
+
+# Visualização
+matplotlib
+seaborn
+
+# Aprendizado de máquina (MLPClassifier, StandardScaler, GridSearchCV, métricas)
+scikit-learn
+joblib            # salvar/carregar o Pipeline final (PP2.2.3)
+
+# Utilitários
+ucimlrepo         # opcional: baixar o dataset direto da UCI (id=602)
+tqdm              # barra de progresso nos 600+ treinamentos
